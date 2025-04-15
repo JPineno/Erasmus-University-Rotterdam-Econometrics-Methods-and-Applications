@@ -1,5 +1,5 @@
 # Erasmus University Rotterdam: Econometrics Methods and Applications
-A series of notebooks including exercises from the Coursera MOOC Econometrics: Methods and Applications (by Erasmus University Rotterdam)
+A series of notebooks including exercises where code was used (and some $\LaTeX$, especially in Module 0) from the Coursera MOOC Econometrics: Methods and Applications (by Erasmus University Rotterdam)
 
 ## Exercises
 Exercises are uploaded as notebooks inside their respective Module folder
